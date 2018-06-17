@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cricket Scores App</string>
+    <string name="initial_score">0</string>
+    <string name="team_A">TEAM A</string>
+    <string name="team_B">TEAM B</string>
+    <string name="four_runs">4 RUNS</string>
+    <string name="six_runs">6 RUNS</string>
+    <string name="one_run">1 RUN</string>
+    <string name="re_set">RESET</string>
+</resources>
